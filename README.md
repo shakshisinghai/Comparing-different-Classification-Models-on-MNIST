@@ -1,1 +1,1 @@
-# LOGISTIC-REGRESSION-ON-MNIST
+#Comparing-different-Classification-Models-on-MNIST
